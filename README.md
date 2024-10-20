@@ -93,7 +93,7 @@ Contributions are welcome! To contribute to this project, please follow these st
    ```bash
    git checkout -b feature/your-feature
    ```
-3. **Commit your changes:
+3. **Commit your changes**:
    ```bash
    git commit -am 'Add some feature'
    ```
