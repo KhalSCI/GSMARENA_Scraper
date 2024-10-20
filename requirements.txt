@@ -61,10 +61,6 @@ matplotlib-inline==0.1.6
 mccabe==0.7.0
 mistune==2.0.4
 mock==4.0.3
-mysql==0.0.3
-mysql-client==0.0.1
-mysql-connector-python==8.0.32
-mysqlclient==2.1.1
 nbclassic==0.4.8
 nbclient==0.7.2
 nbconvert==7.2.5
